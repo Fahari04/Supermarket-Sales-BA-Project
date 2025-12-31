@@ -1,5 +1,5 @@
 # Supermarket-Sales-BA-Project
-Business Analyst Intern project using Excel – sales analysis &amp; insights
+Business Analyst project using Excel – sales analysis &amp; insights
 # Supermarket Sales Performance Analysis (Excel)
 
 ## Dataset
